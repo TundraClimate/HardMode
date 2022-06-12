@@ -1,0 +1,4 @@
+name: Kotlin-Plugin-Template
+version: '${version}'
+main: io.github.tundraclimate.hardmode.HardMode
+api-version: 1.18
